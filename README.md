@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://blog.csdn.net/wangjunbo4" target="_blank" title="CSDN">
+  <a href="" target="_blank" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   &emsp;
-  <a href= "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" title="WeChat">
+  <a href= "" target="_blank" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
     &emsp;
-    <a href="https://www.linkedin.com/in/wangjunbo4" target="_blank" alt="LinkedIn" title="LinkedIn">
+    <a href="" target="_blank" alt="LinkedIn" title="LinkedIn">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
   <br><br>

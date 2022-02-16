@@ -14,6 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: a6214d78eae66f72d87271892c1c9633
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "False"

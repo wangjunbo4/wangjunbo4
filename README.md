@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/wangjunbo4" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=wangjunbo4&title_color=333&text_color=777" alt="Cheuk-Wing Mok's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=wangjunbo4&title_color=333&text_color=777" alt="Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=wangjunbo4&hide=issues&title_color=333&text_color=777" alt="Cheuk-Wing Mok's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=wangjunbo4&hide=issues&title_color=333&text_color=777" alt="Stats" >
     -->
   </a>
 </p>
